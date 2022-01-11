@@ -7,6 +7,8 @@ currently having alot of academic work :P
 
 ![Achxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achxy&count_private=true&show_icons=true&hide=stars&theme=dark)
 
-<a href="https://stackoverflow.com/users/17242950/achxy"><img src="https://stackoverflow.com/users/flair/17242950.png?theme=dark" width="208" height="58" alt="profile for Achxy_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Achxy_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=17242950&theme=dracula"
+/>
 
 Have a great day tho :)
