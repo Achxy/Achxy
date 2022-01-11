@@ -7,5 +7,8 @@ currently having alot of academic work :P
 
 ![Achxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achxy&count_private=true&show_icons=true&hide=stars&theme=dark)
 
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=17242950&theme=dracula"
+/>
 
 Have a great day tho :)
