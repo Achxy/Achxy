@@ -12,3 +12,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: true
+          plugin_code: true
+          plugin_code_lines: 16
