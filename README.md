@@ -5,7 +5,7 @@
 - - [Reddit](https://www.reddit.com/user/a_very_happy_person)
 
 
-![Achxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achxy&count_private=true&show_icons=true&theme=dark)
+![Metrics](/github-metrics.svg)
 
 Really busy irl due to academics so you might find some ghosted projects around here. \
 Have a great day tho :)
