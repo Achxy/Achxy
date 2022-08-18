@@ -4,8 +4,7 @@
 - - [Discord](https://discord.com/users/767102436527177748)
 - - [Reddit](https://www.reddit.com/user/a_very_happy_person)
 
-
-![Metrics](/github-metrics.svg)
+![](https://hit.yhype.me/github/profile?user_id=74144790)
 
 Really busy irl due to academics so you might find some ghosted projects around here. \
 Have a great day tho :)
