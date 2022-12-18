@@ -1,10 +1,7 @@
-- 👋 Heeyo!, I’m @Achxy
-- 🌱 I’m currently learning Python, JavaScript and Rust.
-- 👀 Here are my contacts :
-- - [Discord](https://discord.com/users/767102436527177748)
-- - [Reddit](https://www.reddit.com/user/a_very_happy_person)
+Hello dear visitor, 
 
-![](https://hit.yhype.me/github/profile?user_id=74144790)
+I am Achxy, recently I have been very busy with exams and consequentially\
+haven't been able to contribute much, as such, you may see some unmaintained or halted repositories in my profile.\
+However I should have some decent bit of free time after March 2023.
 
-Really busy irl due to academics so you might find some ghosted projects around here. \
-Have a great day tho :)
+Until next time.
